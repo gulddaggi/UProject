@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UProject",
+			"Path": "D:\\UE4CPP\\UProject\\Source\\UProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UProjectEditor",
+			"Path": "D:\\UE4CPP\\UProject\\Source\\UProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

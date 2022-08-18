@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE4CPP\\UProject\\Source\\UProject\\UProject.Build.cs",
+		"D:\\UE4CPP\\UProject\\Source\\UProject.Target.cs",
+		"D:\\UE4CPP\\UProject\\Source\\UProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
